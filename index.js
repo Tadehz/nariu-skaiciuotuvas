@@ -311,4 +311,4 @@ In the bottom, you'll find two reactions, 🇺🇸 and 🇱🇹
     }
   });
   
-  client.login("NzM1NTQzMTU1MjI2NzA2MDEw.Xxh2rA.zmwj71WeARDXuBQ-xKJ7YHzko-Q");
+  client.login("");
