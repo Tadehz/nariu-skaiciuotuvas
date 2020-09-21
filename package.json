@@ -1,0 +1,12 @@
+{
+  "name": "Narių skaičiuotuvas",
+  "version": "0.1",
+  "description": "Robotas sukurtas visiškai pramogos tikslais.",
+  "main": "index.js",
+  "author": "Tadeh",
+  "dependencies": {
+    "better-sqlite3": "^7.0.1",
+    "discord.js": "^12.2.0",
+    "enmap": "^5.2.4"
+  }
+}
