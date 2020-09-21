@@ -1,5 +1,5 @@
 # nariu-skaiciuotuvas
-Robotas kurį sukūriau besimokindamas Discord.JS prieš keleta metų, atnaujintas į Discord.JS v12.
+Robotas kurį sukūriau besimokindamas Discord.JS prieš keleta metų [2018], atnaujintas į Discord.JS v12.
 
 Paleidimas ant WINDOWS:
 1. Atsisiųskite NodeJS.
